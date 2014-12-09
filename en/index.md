@@ -1,8 +1,8 @@
 title: How to run a SilverStripe meetup
-introduction: A community guide and shared knowledge base.
+introduction: How to run a successful community meetup, unconference or hackfest.
 
 # How to run a SilverStripe meetup
-## *A community guide and shared knowledge base* 
+## *How to run a successful community meetup, unconference or hackfest* 
 
 ### Contents
 [Children]
