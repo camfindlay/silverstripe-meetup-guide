@@ -9,7 +9,7 @@ introduction: How to run a successful community meetup, unconference or hackfest
 * [Getting a venue](01_Getting_a_venue.md)
 * [Approaching speakers](02_Approaching_speakers.md)
 * [Promoting your Meetup](03_Promoting_your_meetup.md)
-* [Using Meetup.com](04_Using_meetup_dot_com.md)
+* [Using Meetup.com](04_Using_Meetup_dot_com.md)
 * [Sponsorship](05_Sponsorship.md)
 * [SilverStripe branding](06_SilverStripe_branding.md)
 * [Hackfest guide](07_Hackfest_guide.md)
