@@ -3,6 +3,8 @@
 ##What are they?
 Hackfests are a chance to get hands on with SilverStripe open source code code. It is also a good space to meet other SilverStripe developers, share knowledge and get help for your SilverStripe open source projects.
 
+For a good idea about 'hackathon' type events in general checkout out the useful [Hackathon Guide by Joshua Tauberer](https://hackathon.guide/)
+
 ## Before the hackfest 
 * When you list your hackfest meetup on meetup.com make sure to let people know that it is a hackfest rather than a speaker based meetup. 
 
