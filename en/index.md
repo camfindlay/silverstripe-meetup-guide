@@ -2,7 +2,7 @@ title: How to run a SilverStripe meetup
 introduction: How to run a successful community meetup, unconference or hackfest.
 
 # How to run a SilverStripe meetup
-## *How to run a successful community meetup, unconference or hackfest* 
+## *How to run a successful community meetup, unconference or hackfest*
 
 ### Contents
 * [Planning you Meetup](00_Planning_your_meetup.md)
@@ -13,8 +13,8 @@ introduction: How to run a successful community meetup, unconference or hackfest
 * [Sponsorship](05_Sponsorship.md)
 * [SilverStripe branding](06_SilverStripe_branding.md)
 * [Hackfest guide](07_Hackfest_guide.md)
+* [Codes of Conduct](09_Codes_of_conduct.md)
 
 
 ### Current SilverStripe Meetup groups
 A full list of SilverStripe meetup groups worldwide is available at [silverstripe.meetup.com](http://silverstripe.meetup.com/)
-
