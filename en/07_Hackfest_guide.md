@@ -6,7 +6,7 @@ Hackfests are a chance to get hands on with SilverStripe open source code code. 
 For a good idea about 'hackathon' type events in general checkout out the useful [Hackathon Guide by Joshua Tauberer](https://hackathon.guide/)
 
 ## Before the hackfest 
-* When you list your hackfest meetup on meetup.com make sure to let people know that it is a hackfest rather than a speaker based meetup. 
+* When you list your hackfest on meetup.com make sure to let people know that it is a hackfest rather than a speaker based meetup. 
 
 * Set the number of RSVPs to suit the venue you are using (we find hackfests are often smaller that the speaker based meetups).
 
@@ -17,7 +17,7 @@ For a good idea about 'hackathon' type events in general checkout out the useful
 ### Venue
 Venues for hackfests are often in public "hacker" spaces or sponsored by local development companies (if a company is sponsoring a meetup it is ok to add them as meetup sponsors on Meetup.com).
 
-To run a hackfest you'll need to secure space with:
+To run a hackfest you'll need to secure a venue with:
  * Space, desks, chairs
  * Wifi (preferably a guest wifi access point, please consider any security impacts if you are using a sponsors space and wifi).
  * Power (it is a good idea to bring some extension gables and power boards).
@@ -27,7 +27,7 @@ Something to consider if the building is usually locked on a weekend, create a s
 
 ## On the day
 ### General
-* Make a sign with a contact module number to put on the entrance if the doors are locked over the weekend.
+* Make a sign with a contact mobile number to put on the entrance if the doors are locked over the weekend.
 * Set up the desk space with power boards.
 * Attendees will likely arrive throughout the day so make sure to keep an eye on your mobile if you are running the hackfest.
 * If you have refreshments provided set these out somewhere accessible.
