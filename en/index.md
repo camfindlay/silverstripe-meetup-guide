@@ -5,7 +5,7 @@ introduction: How to run a successful community meetup, unconference or hackfest
 ## *How to run a successful community meetup, unconference or hackfest*
 
 ### Contents
-* [Planning you Meetup](00_Planning_your_meetup.md)
+* [Planning your Meetup](00_Planning_your_meetup.md)
 * [Getting a venue](01_Getting_a_venue.md)
 * [Approaching speakers](02_Approaching_speakers.md)
 * [Promoting your Meetup](03_Promoting_your_meetup.md)
